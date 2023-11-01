@@ -1,6 +1,6 @@
 ## ExpNo 1 : Implement Depth First Search Traversal of a Graph
-###  Name:Aruru.Sai Bandhavi
-### Register Number: 212221240006
+###  Name:Setty Poojitha
+### Register Number: 212221240050
 # Aim:
 To Implement Depth First Search Traversal of a Graph using Python 3.
 # Theory:
